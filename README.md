@@ -4,17 +4,9 @@
 
 I enjoy building interactive experiences, experimenting with technology, and turning ideas into something tangible. Most of my development experience currently revolves around Roblox Studio, with an interest in expanding into software development and engineering.
 
-<p align="left">
-  <a href="https://www.youtube.com/@realvis1on">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://x.com/iiAcixYT">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://sites.google.com/view/augmentgames/Home">
-    <img src="./assets/augment-icon.png" width="24" height="24" alt="Augment">
-  </a>
-</p>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@realvis1on)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iiAcixYT)
+[![Augment](https://img.shields.io/badge/Augment-5865F2?style=flat-square&logo=roblox&logoColor=white)](https://sites.google.com/view/augmentgames/Home)
 
 ---
 
